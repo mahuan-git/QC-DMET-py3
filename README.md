@@ -3,5 +3,5 @@ A modified version of QC-DMET [https://github.com/SebWouters/QC-DMET.git](https:
 
 # add to pythonpath
 ```
-export PYTHONPATH = /path/to/QC-DMET-py3/src:$PYTHONPATH
+export PYTHONPATH=/path/to/QC-DMET-py3/src:$PYTHONPATH
 ```
